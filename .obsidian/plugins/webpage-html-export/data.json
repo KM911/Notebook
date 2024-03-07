@@ -1,0 +1,43 @@
+{
+  "inlineCSS": false,
+  "inlineJS": false,
+  "inlineImages": false,
+  "includePluginCSS": "",
+  "includeSvelteCSS": false,
+  "makeNamesWebStyle": true,
+  "allowFoldingHeadings": true,
+  "sidebarsAlwaysCollapsible": true,
+  "addFilenameTitle": true,
+  "minifyHTML": true,
+  "customLineWidth": "",
+  "contentWidth": "",
+  "sidebarWidth": "",
+  "startOutlineCollapsed": false,
+  "logLevel": "fatal",
+  "incrementalExport": true,
+  "deleteOldExportedFiles": true,
+  "addDarkModeToggle": true,
+  "includeOutline": true,
+  "includeGraphView": true,
+  "includeFileTree": true,
+  "exportPreset": "website",
+  "openAfterExport": true,
+  "graphAttractionForce": 1,
+  "graphLinkLength": 10,
+  "graphRepulsionForce": 150,
+  "graphCentralForce": 3,
+  "graphEdgePruning": 100,
+  "graphMinNodeSize": 3,
+  "graphMaxNodeSize": 7,
+  "exportPath": "/home/km/repo/obsidian-export",
+  "filesToExport": [
+    [
+      "基于UDP的稳定连接.md",
+      "解释python代码需要多少时间.md"
+    ]
+  ],
+  "beautifyHTML": false,
+  "dataviewBlockWaitTime": 700,
+  "showWarningsInExportLog": true,
+  "lastExportPath": "D:\\GITHUB\\KM911\\vercel"
+}

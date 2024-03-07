@@ -1,0 +1,298 @@
+{
+  "callouts": {
+    "custom": [
+      "transfer",
+      "verify",
+      "analogy",
+      "v",
+      "exp",
+      "note",
+      "others",
+      "test",
+      "lab",
+      "book",
+      "key",
+      "quiz",
+      "background",
+      "bg",
+      "thought"
+    ],
+    "settings": {
+      "attention": [
+        {
+          "changes": {
+            "icon": "lucide-alert-triangle",
+            "color": "233, 151, 63"
+          }
+        }
+      ],
+      "tip": [
+        {
+          "changes": {
+            "icon": "lucide-list"
+          }
+        }
+      ],
+      "desc": [
+        {
+          "changes": {
+            "icon": "lucide-pencil"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "75, 153, 211"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "133, 202, 255"
+          }
+        }
+      ],
+      "case": [
+        {
+          "changes": {
+            "color": "205, 82, 85"
+          }
+        }
+      ],
+      "transfer": [
+        {
+          "changes": {
+            "icon": "lucide-git-branch-plus",
+            "color": "235, 171, 55"
+          }
+        }
+      ],
+      "verify": [
+        {
+          "changes": {
+            "icon": "lucide-shield-question",
+            "color": "85, 114, 241"
+          }
+        }
+      ],
+      "info": [
+        {
+          "changes": {
+            "icon": "lucide-pencil",
+            "color": "133, 202, 255"
+          }
+        }
+      ],
+      "failure": [
+        {
+          "changes": {
+            "icon": "lucide-zap",
+            "color": "248, 81, 73"
+          }
+        }
+      ],
+      "error": [
+        {
+          "changes": {
+            "icon": "lucide-x"
+          }
+        }
+      ],
+      "example": [
+        {
+          "changes": {
+            "icon": "lucide-align-vertical-justify-end"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "168, 130, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "168, 130, 255"
+          }
+        }
+      ],
+      "todo": [
+        {
+          "changes": {
+            "icon": "lucide-list-todo",
+            "color": "133, 255, 141"
+          }
+        }
+      ],
+      "abstract": [
+        {
+          "changes": {
+            "icon": "lucide-list"
+          }
+        }
+      ],
+      "summary": [
+        {
+          "changes": {
+            "icon": "lucide-list"
+          }
+        }
+      ],
+      "tldr": [
+        {
+          "changes": {
+            "icon": "lucide-list"
+          }
+        }
+      ],
+      "important": [
+        {
+          "changes": {
+            "icon": "lucide-list"
+          }
+        }
+      ],
+      "hint": [
+        {
+          "changes": {
+            "icon": "lucide-list"
+          }
+        }
+      ],
+      "analogy": [
+        {
+          "changes": {
+            "icon": "lucide-git-branch-plus",
+            "color": "235, 171, 55"
+          }
+        }
+      ],
+      "v": [
+        {
+          "changes": {
+            "icon": "lucide-shield-question",
+            "color": "85, 114, 241"
+          }
+        }
+      ],
+      "exp": [
+        {
+          "changes": {
+            "icon": "lucide-align-vertical-justify-end",
+            "color": "168, 130, 255"
+          }
+        }
+      ],
+      "note": [
+        {
+          "changes": {
+            "icon": "lucide-pencil",
+            "color": "133, 202, 255"
+          }
+        }
+      ],
+      "others": [
+        {
+          "changes": {
+            "icon": "lucide-airplay",
+            "color": "121, 136, 154"
+          }
+        }
+      ],
+      "test": [
+        {
+          "changes": {
+            "icon": "lucide-test-tube-2",
+            "color": "6, 224, 195"
+          }
+        }
+      ],
+      "lab": [
+        {
+          "changes": {
+            "icon": "lucide-test-tube-2"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 191, 165"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 224, 195"
+          }
+        }
+      ],
+      "book": [
+        {
+          "changes": {
+            "icon": "lucide-book-check",
+            "color": "87, 165, 255"
+          }
+        }
+      ],
+      "key": [
+        {
+          "changes": {
+            "icon": "lucide-file-key-2",
+            "color": "236, 60, 78"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "changes": {
+            "icon": "lucide-file-question",
+            "color": "255, 245, 240"
+          }
+        }
+      ],
+      "background": [
+        {
+          "changes": {
+            "icon": "lucide-database-backup",
+            "color": "174, 0, 255"
+          }
+        }
+      ],
+      "bg": [
+        {
+          "changes": {
+            "icon": "lucide-database-backup",
+            "color": "174, 0, 255"
+          }
+        }
+      ],
+      "thought": [
+        {
+          "changes": {
+            "icon": "lucide-brain-cog",
+            "color": "36, 138, 255"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

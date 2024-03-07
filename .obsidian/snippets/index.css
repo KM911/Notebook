@@ -1,0 +1,218 @@
+.r {
+  color:var(--code-red-color);
+}
+
+.y {
+  color:  var(--code-yellow-color);
+}
+
+.c {
+  color:var(--code-cyan-color);
+}
+.b{
+  color: var(--code-blue-color);
+}
+.p{
+  color:var(--code-purple-color);
+}
+.o{
+  color:var(--code-orange-color);
+}
+.g{
+  color:var(--code-green-color);
+}
+.grey{
+  color:var(--code-grey-color);
+}
+
+/* .kanban-plugin__board > div {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 40px;
+} */
+
+/* color show */
+
+*{
+  /* box-sizing: content-box; */
+  margin: 0;
+  padding: 0;
+}
+
+
+::root {
+  --code-red-color: hsl(355, 65%, 65%);
+  --code-yellow-color: hsl(39, 67%, 69%);
+  --code-cyan-color: hsl(187, 47%, 55%);
+  --code-blue-color: hsl(207, 82%, 66%);
+  --code-purple-color: hsl(286, 60%, 67%);
+  --code-orange-color: hsl(29, 54%, 61%);
+  --code-green-color: hsl(95, 38%, 62%);
+  --code-grey-color: hsl(220, 9%, 55%);
+
+  --code-select-bg-color: rgb(59, 68, 84);
+  --code-cursor-color: hsl(220, 100%, 66%);
+  --bg-color1: hsl(220, 13%, 18%);
+  /* for most panel, context, header, etc */
+  --bg-color2: rgb(33, 37, 43);
+  /* for toc and table edit panel */
+  --bg-color3: rgba(16, 17, 20, 0.5);
+  /* for tips */
+  --bg-color4: black;
+  /* for blockquote, codeblock, input, etc */
+  --bg-color5: rgb(29, 31, 35);
+  /* light color for text and icon*/
+  /* default color */
+  --text-color1: hsl(220, 6%, 71%);
+  /* for text on panel */
+  --text-color2: rgb(220, 220, 220);
+  /* for checkbox and radio */
+  --text-color3: hsl(192, 6%, 40%);
+}
+
+.b1 {
+  background-color: var(--text-color1);
+}
+
+.b1 * {
+  background-color: inherit;
+}
+
+.b2 {
+  background-color: var(--text-color2);
+}
+
+.b2 * {
+  background-color: inherit;
+}
+
+.b3 {
+  background-color: var(--text-color3);
+}
+
+.b3 * {
+  background-color: inherit;
+}
+
+.t1 {
+  color: var(--text-color1);
+}
+
+.t2 {
+  color: var(--text-color2);
+}
+
+.t3 {
+  color: var(--text-color3);
+}
+
+.red {
+  color: var(--code-red-color);
+}
+
+.yellow {
+  color: var(--code-yellow-color);
+}
+
+.cyan {
+  color: var(--code-cyan-color);
+}
+
+.blue {
+  color: var(--code-blue-color);
+}
+
+.purple {
+  color: var(--code-purple-color);
+}
+
+.orange {
+  color: var(--code-orange-color);
+}
+
+.green {
+  color: var(--code-green-color);
+}
+
+.grey {
+  color: var(--code-grey-color);
+}
+
+.c1 {
+  color: var(--code-red-color);
+}
+
+.c2 {
+  color: var(--code-yellow-color);
+}
+
+.c3 {
+  color: var(--code-cyan-color);
+}
+
+.c4 {
+  color: var(--code-blue-color);
+}
+
+.c5 {
+  color: var(--code-purple-color);
+}
+
+.c6 {
+  color: var(--code-orange-color);
+}
+
+.c7 {
+  color: var(--code-green-color);
+}
+
+.c8 {
+  color: var(--code-grey-color);
+}
+
+/*  */
+
+iframe {
+  width: fit-content;
+  height: fit-content;
+}
+
+/* height and wight */
+w16 {
+  width: 16px;
+}
+
+h16 {
+  height: 16px;
+}
+
+w18 {
+  width: 18px;
+}
+
+h18 {
+  height: 18px;
+}
+
+w24 {
+  width: 24px;
+}
+
+h24 {
+  height: 24px;
+}
+
+w32 {
+  width: 32px;
+}
+
+h32 {
+  height: 32px;
+}
+
+
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+}

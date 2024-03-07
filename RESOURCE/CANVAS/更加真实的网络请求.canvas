@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"74dac812d1210342","x":-462,"y":-49,"width":188,"height":60,"type":"text","text":"## 你的浏览器"},
+		{"type":"text","text":"## 你的浏览器","id":"a652d4008fda190e","x":-462,"y":100,"width":188,"height":60},
+		{"type":"text","text":"## 你的浏览器","id":"dc426a6b96fe9e6c","x":-462,"y":240,"width":188,"height":60},
+		{"id":"46e0ec8b0374971b","x":-378,"y":-180,"width":560,"height":60,"type":"text","text":"以请求`https://www.bilibili.com/video/BV1JP41147xY` 为例"},
+		{"id":"857d3e0a58a00c82","x":120,"y":-49,"width":128,"height":60,"type":"text","text":"## DNS"},
+		{"type":"text","text":"## DNS","id":"28c76b074c69e374","x":120,"y":100,"width":128,"height":60},
+		{"id":"0eaa78f5ab21e98b","x":120,"y":240,"width":192,"height":60,"type":"text","text":"## B站服务器"},
+		{"type":"text","text":"## 你的浏览器","id":"ddaeaa5767ca12e2","x":-462,"y":400,"width":188,"height":60},
+		{"type":"text","text":"## B站服务器","id":"303875bb6e95c2da","x":120,"y":405,"width":192,"height":55},
+		{"id":"3bcc23002dda6182","x":-233,"y":-280,"width":271,"height":67,"type":"text","text":"# 更加网络请求"}
+	],
+	"edges":[
+		{"id":"f8745935c91ae0c7","fromNode":"74dac812d1210342","fromSide":"right","toNode":"857d3e0a58a00c82","toSide":"left","label":"申请解析域名www.bilibili.com"},
+		{"id":"8c26e0110a27e0e0","fromNode":"a652d4008fda190e","fromSide":"right","toNode":"28c76b074c69e374","toSide":"left","label":"返回域名对应IP可能是 xx.xx.xxx.xxx"},
+		{"id":"5696673420d68fe5","fromNode":"dc426a6b96fe9e6c","fromSide":"right","toNode":"0eaa78f5ab21e98b","toSide":"left","label":"通过IP请求资源"},
+		{"id":"40cffe1f2520a76b","fromNode":"ddaeaa5767ca12e2","fromSide":"right","toNode":"303875bb6e95c2da","toSide":"left","label":"返回资源资源"}
+	]
+}

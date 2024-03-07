@@ -1,0 +1,47 @@
+/* 
+
+*/
+
+
+
+.ease{
+  /* transition: all 2s ease; */
+  animation: trans200px 2s ease infinite;
+}
+
+@keyframes trans200px{
+  0%{
+    transform: translate(0px);
+  }
+  50%{
+    transform: translate(200px);
+  }
+  100%{
+    transform: translate(0px);    
+  }
+}
+
+.ease-in{
+  /* transition: all 2s ease-in; */
+  animation : trans200px 2s ease-in infinite;
+} 
+
+
+
+.ease-in-out{
+  /* transition: all 2s ease-in-out; */
+  animation: trans200px 2s ease-in-out infinite;
+}
+
+
+
+.ease-out{
+  /* transition: all 2s ease-out; */
+  animation: trans200px 2s ease-out infinite;
+}
+
+
+.light{
+  box-shadow: -8px -8px 8px rgb(255, 255, 255),
+   8px 8px 8px rgba(0,0,0,0.5);
+}

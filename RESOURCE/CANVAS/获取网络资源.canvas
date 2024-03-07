@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"text","text":"### 你的浏览器","id":"28e3b66e6b9c135f","x":-380,"y":-64,"width":181,"height":60},
+		{"type":"text","text":"### B站服务器\n","id":"14119c6ffa8da5e6","x":140,"y":-64,"width":170,"height":60},
+		{"type":"text","text":"### B站服务器\n","id":"9353981dadcdfa8d","x":140,"y":120,"width":170,"height":60},
+		{"type":"text","text":"### 你的浏览器","id":"0cc9c424cbd1995a","x":-380,"y":120,"width":181,"height":60},
+		{"type":"text","text":"## 服务器\n* 存放各种资源 图片 网页 视频 巴拉巴拉","id":"68a44aa10abdb5ac","x":60,"y":-360,"width":250,"height":200},
+		{"type":"text","text":"### 爬虫是什么呢?","id":"aa090b8bf969ef17","x":-140,"y":300,"width":220,"height":60},
+		{"type":"text","text":"这样做的意义是什么呢?","id":"7a1a377f5fa5c330","x":-176,"y":757,"width":250,"height":60},
+		{"type":"text","text":"### B站服务器\n","id":"ba30d0533778248c","x":140,"y":420,"width":170,"height":60},
+		{"type":"text","text":"### B站服务器\n","id":"4c7ca3dd2a4e933f","x":140,"y":604,"width":170,"height":60},
+		{"type":"text","text":"### 伪装浏览器","id":"18cbac9ed076f9ad","x":-380,"y":420,"width":181,"height":60},
+		{"type":"text","text":"### 伪装浏览器","id":"03f5abc308142c1b","x":-380,"y":604,"width":181,"height":60},
+		{"type":"text","text":"说真的其实我不知道?","id":"cffdd95b0f74c5e9","x":-174,"y":856,"width":250,"height":60},
+		{"type":"text","text":"## 用户设备\n* 一切联网的设备 比如电脑 手机\n* 应用程序才是网络请求的发起者","id":"04aaf41d5e40666d","x":-426,"y":-360,"width":250,"height":200},
+		{"type":"text","text":"点开好兄弟的视频链接","id":"72c86ff591c9d655","x":-150,"y":-160,"width":241,"height":60}
+	],
+	"edges":[
+		{"id":"6bb85875693824c5","fromNode":"28e3b66e6b9c135f","fromSide":"right","toNode":"14119c6ffa8da5e6","toSide":"left","color":"5","label":"我想看视频"},
+		{"id":"f0b3f8ee62b19677","fromNode":"9353981dadcdfa8d","fromSide":"left","toNode":"0cc9c424cbd1995a","toSide":"right","color":"5","label":"好,视频给你"},
+		{"id":"cd3c30b2f17c61a3","fromNode":"18cbac9ed076f9ad","fromSide":"right","toNode":"ba30d0533778248c","toSide":"left","color":"5","label":"我也想看视频"},
+		{"id":"9e194ba3e88533d0","fromNode":"4c7ca3dd2a4e933f","fromSide":"left","toNode":"03f5abc308142c1b","toSide":"right","color":"5","label":"好,视频给你"}
+	]
+}

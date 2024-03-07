@@ -1,0 +1,6 @@
+.kanban-plugin__board > div {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 40px;
+  overflow-y: auto;
+}

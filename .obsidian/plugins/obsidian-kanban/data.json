@@ -1,0 +1,15 @@
+{
+  "tag-colors": [
+    {
+      "tagKey": "#tag1",
+      "color": "",
+      "backgroundColor": ""
+    }
+  ],
+  "hide-card-count": true,
+  "show-add-list": true,
+  "show-archive-all": false,
+  "show-view-as-markdown": false,
+  "show-board-settings": true,
+  "show-search": false
+}

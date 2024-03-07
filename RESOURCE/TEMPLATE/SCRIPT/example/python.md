@@ -1,0 +1,1 @@
+<% tp.user.python("template",tp.file.path())%>

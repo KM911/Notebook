@@ -1,0 +1,1 @@
+<% tp.file.cursor_append("Some text") %>

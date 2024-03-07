@@ -1,0 +1,1 @@
+<%tp.file.cursor_append(tp.user.readPythonStdout("excel"))%>

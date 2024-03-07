@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1703761212472,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1699689509177,
+          "path": "SOFTWARE/NOTEBOOK/Obsidian Zen.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1699689191485,
+          "path": "RESOURCE/Archives/TIMESAMP.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1699689183283,
+          "path": "CARD/Bin/Routine/TODO.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1703769324373,
+          "path": "CARD/Bin/Routine/Bin.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1704726055906,
+          "path": "CARD/Bin/Routine/TODO_Kanban.md",
+          "title": "TODO"
+        }
+      ],
+      "title": "Routine"
+    },
+    {
+      "type": "folder",
+      "ctime": 1700574570786,
+      "path": "RESOURCE/TEMPLATE"
+    },
+    {
+      "type": "folder",
+      "ctime": 1701320533824,
+      "path": "CARD/Challenge"
+    },
+    {
+      "type": "file",
+      "ctime": 1701224136545,
+      "path": "CODE/COMMON/code style.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1699672045120,
+      "path": "CARD/ZEN/PROGRAMMING/问题的价值.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1699708256302,
+      "path": "CODE/PYTHON/spider template.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1699969308917,
+      "path": "RESOURCE/Archives/Software.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1700016402322,
+      "path": "CODE/CODE MAP.md"
+    },
+    {
+      "type": "folder",
+      "ctime": 1709831992882,
+      "path": "CARD/BOOK/SoftwareDesigner"
+    }
+  ]
+}

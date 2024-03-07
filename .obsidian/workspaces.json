@@ -1,0 +1,644 @@
+{
+  "workspaces": {
+    "work": {
+      "main": {
+        "id": "7aa34733bcc0cc1a",
+        "type": "split",
+        "children": [
+          {
+            "id": "4392fa48f3395f64",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c32a41bd911ecb96",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CODE/PYTHON/matplotlib.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c2275499ddabba41",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DATA/数据可视化.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d9aba8a30372b758",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "SOFTWARE/daily/Obsidian Zen.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1eb99fac472224aa",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ac2a5ebb939dbc80",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d0e0662ee2779f0",
+            "type": "tabs",
+            "dimension": 59.606481481481474,
+            "children": [
+              {
+                "id": "92184ef2b1a4bee0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "24c3e2edea6ea560",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "知识诅咒",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f4aac2457ab6826e",
+            "type": "tabs",
+            "dimension": 40.39351851851852,
+            "children": [
+              {
+                "id": "32ff264c626ce3a2",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "668230bf19922924",
+        "type": "split",
+        "children": [
+          {
+            "id": "8869f4e0ce3c012d",
+            "type": "tabs",
+            "dimension": 58.44907407407407,
+            "children": [
+              {
+                "id": "1d9fc13db902b891",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "SOFTWARE/daily/Obsidian Zen.md"
+                  }
+                }
+              },
+              {
+                "id": "8f994f5cf732a910",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "28d7e5e0cccfc27d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "SOFTWARE/daily/Obsidian Zen.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "69b03f0e4821a4b0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "SOFTWARE/daily/Obsidian Zen.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3d07ea1d90b59f46",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "89c72825466937ef",
+            "type": "tabs",
+            "dimension": 41.550925925925924,
+            "children": [
+              {
+                "id": "f6584804ad7aa6b5",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open video": false,
+          "obsidian-custom-frames:Open bilibill": false,
+          "templater-obsidian:Templater": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "webpage-html-export:Export Vault to HTML": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "canvas:Create new canvas": false,
+          "graph:Open graph view": false,
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": false,
+          "oz-clear-unused-images:Clear Unused Images": false
+        }
+      },
+      "active": "92184ef2b1a4bee0"
+    },
+    "zen": {
+      "main": {
+        "id": "7aa34733bcc0cc1a",
+        "type": "split",
+        "children": [
+          {
+            "id": "4392fa48f3395f64",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c32a41bd911ecb96",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CODE/PYTHON/matplotlib.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c2275499ddabba41",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DATA/数据可视化.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d9aba8a30372b758",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "SOFTWARE/daily/Obsidian Zen.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1eb99fac472224aa",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ac2a5ebb939dbc80",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d0e0662ee2779f0",
+            "type": "tabs",
+            "dimension": 59.606481481481474,
+            "children": [
+              {
+                "id": "92184ef2b1a4bee0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "24c3e2edea6ea560",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "知识诅咒",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f4aac2457ab6826e",
+            "type": "tabs",
+            "dimension": 40.39351851851852,
+            "children": [
+              {
+                "id": "32ff264c626ce3a2",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "668230bf19922924",
+        "type": "split",
+        "children": [
+          {
+            "id": "8869f4e0ce3c012d",
+            "type": "tabs",
+            "dimension": 58.44907407407407,
+            "children": [
+              {
+                "id": "1d9fc13db902b891",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "SOFTWARE/daily/Obsidian Zen.md"
+                  }
+                }
+              },
+              {
+                "id": "8f994f5cf732a910",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "28d7e5e0cccfc27d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "SOFTWARE/daily/Obsidian Zen.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "69b03f0e4821a4b0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "SOFTWARE/daily/Obsidian Zen.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3d07ea1d90b59f46",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "89c72825466937ef",
+            "type": "tabs",
+            "dimension": 41.550925925925924,
+            "children": [
+              {
+                "id": "f6584804ad7aa6b5",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open video": false,
+          "obsidian-custom-frames:Open bilibill": false,
+          "templater-obsidian:Templater": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "webpage-html-export:Export Vault to HTML": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "canvas:Create new canvas": false,
+          "graph:Open graph view": false,
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": false,
+          "oz-clear-unused-images:Clear Unused Images": false
+        }
+      },
+      "active": "92184ef2b1a4bee0"
+    },
+    "video": {
+      "main": {
+        "id": "7aa34733bcc0cc1a",
+        "type": "split",
+        "children": [
+          {
+            "id": "4392fa48f3395f64",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1eb99fac472224aa",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-video",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "551e2f3d2f9e05b2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d9aba8a30372b758",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ac2a5ebb939dbc80",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d0e0662ee2779f0",
+            "type": "tabs",
+            "dimension": 59.60648148148148,
+            "children": [
+              {
+                "id": "92184ef2b1a4bee0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "24c3e2edea6ea560",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "知识诅咒",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f4aac2457ab6826e",
+            "type": "tabs",
+            "dimension": 40.39351851851852,
+            "children": [
+              {
+                "id": "32ff264c626ce3a2",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "668230bf19922924",
+        "type": "split",
+        "children": [
+          {
+            "id": "8869f4e0ce3c012d",
+            "type": "tabs",
+            "dimension": 58.44907407407407,
+            "children": [
+              {
+                "id": "1d9fc13db902b891",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8f994f5cf732a910",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "28d7e5e0cccfc27d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "69b03f0e4821a4b0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3d07ea1d90b59f46",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "89c72825466937ef",
+            "type": "tabs",
+            "dimension": 41.550925925925924,
+            "children": [
+              {
+                "id": "f6584804ad7aa6b5",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open video": false,
+          "obsidian-custom-frames:Open bilibill": false,
+          "templater-obsidian:Templater": false,
+          "webpage-html-export:Export Vault to HTML": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "canvas:Create new canvas": false,
+          "graph:Open graph view": false,
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": false,
+          "oz-clear-unused-images:Clear Unused Images": false
+        }
+      },
+      "active": "1eb99fac472224aa"
+    }
+  },
+  "active": "video"
+}

@@ -1,0 +1,1 @@
+<%tp.user.python("rgb_table",tp.file.path())%>

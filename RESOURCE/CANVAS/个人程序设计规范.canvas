@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"type":"text","text":"## 配置加载\n* 环境变量\n* 用户配置文件","id":"1f54726a53749cac","x":-300,"y":136,"width":250,"height":109},
+		{"type":"text","text":"程序启动","id":"47d239d1783f47a5","x":-300,"y":40,"width":250,"height":60},
+		{"type":"text","text":"## 核心功能函数\n* 实现功能\n* 抛出异常","id":"2b0ce1fe27037b61","x":-300,"y":300,"width":250,"height":120},
+		{"type":"text","text":"## 错误处理\n* 发送消息给日志中心\n* 尝试修复程序","id":"6d0c1ac30cc0fd7f","x":60,"y":206,"width":250,"height":124},
+		{"type":"text","text":"退出程序","id":"a9e72d4ee02dea5d","x":-300,"y":480,"width":250,"height":60},
+		{"type":"text","text":"## 日志中心\n* 记录错误信息 帮助调试 和 发现错误\n","id":"a2be8ac8495cb97f","x":420,"y":210,"width":250,"height":120},
+		{"type":"text","text":"# 个人程序设计规范","id":"4fbc13789e3ab9df","x":-300,"y":-80,"width":320,"height":80}
+	],
+	"edges":[
+		{"id":"be02c3a0cfb91921","fromNode":"47d239d1783f47a5","fromSide":"bottom","toNode":"1f54726a53749cac","toSide":"top"},
+		{"id":"f1bebabe94d6f09f","fromNode":"1f54726a53749cac","fromSide":"bottom","toNode":"2b0ce1fe27037b61","toSide":"top"},
+		{"id":"f476b75e9c646bea","fromNode":"2b0ce1fe27037b61","fromSide":"bottom","toNode":"a9e72d4ee02dea5d","toSide":"top"},
+		{"id":"6752880fc16d0ea3","fromNode":"1f54726a53749cac","fromSide":"right","toNode":"6d0c1ac30cc0fd7f","toSide":"left"},
+		{"id":"349fc1f4c137adf7","fromNode":"2b0ce1fe27037b61","fromSide":"right","toNode":"6d0c1ac30cc0fd7f","toSide":"left"},
+		{"id":"3afb4b1dbe707191","fromNode":"6d0c1ac30cc0fd7f","fromSide":"bottom","toNode":"a9e72d4ee02dea5d","toSide":"right"},
+		{"id":"d3afd1d752916656","fromNode":"6d0c1ac30cc0fd7f","fromSide":"right","toNode":"a2be8ac8495cb97f","toSide":"left"}
+	]
+}

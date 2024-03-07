@@ -1,0 +1,49 @@
+{
+  "frames": [
+    {
+      "url": "https://www.bilibili.com/video/BV1Qc411G7fB?p=3&spm_id_from=pageDriver&vd_source=036ef261e6800ac6f6a743a8d5dce899",
+      "displayName": "bilibill",
+      "icon": "book",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1YW41177Ei/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=036ef261e6800ac6f6a743a8d5dce899",
+      "displayName": "video",
+      "icon": "airplay",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.modevol.com/people/ckx7py0sx000101p641698kj7/works",
+      "displayName": "model",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1fE411V7zb?p=3&vd_source=036ef261e6800ac6f6a743a8d5dce899",
+      "displayName": "test",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

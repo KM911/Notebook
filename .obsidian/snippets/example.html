@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background-color: hsl(220, 13%, 18%);
+  }
+
+  /* 类似于col的限制 */
+  .container {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    flex-direction: column;
+  }
+
+  .flex-item {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    background-color: red;
+  }
+
+  /* 这是正常的情况下 */
+</style>
+
+<body>
+  <div class="container">
+    <div class="flex-item">1</div>
+    <div class="flex-item">2</div>
+    <div class="flex-item">3</div>
+    <div class="flex-item">4</div>
+  </div>
+
+</body>
