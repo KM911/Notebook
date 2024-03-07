@@ -1,0 +1,6 @@
+Delay = 2000
+Command = 'python D:\\GITHUB\\KM911\\static-html\\blogs\\_posts\\RESOURCE\\Function\\function\\style.py D:/GITHUB/KM911/static-html/blogs/_posts/CODE/HTML/beautyfil/test.md'
+WatchFiles = ['md']
+IgnoreFolders = ['node_modules', 'vendor', '.git', '.idea', '.vscode', 'log', 'build', 'dist', 'bin', 'public', 'target', 'output']
+ShowEvent = true
+Github = 'https://github.com/KM911/hotpot'

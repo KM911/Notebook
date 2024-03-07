@@ -1,0 +1,76 @@
+class Index {
+  Render(str, type) {
+    switch (type) {
+      case "num":
+        return "<span class='num'>" + str + "</span>";
+      case "name":
+        return "<span class='name'>" + str + "</span>";
+      case "time":
+        return "<span class='time'>" + str + "</span>";
+    }
+    return str;
+  }
+  Color(str, type) {
+    switch (type) {
+      case "num":
+        return "#000";
+      case "name":
+        return "#000";
+      case "time":
+        return "#000";
+    }
+    return "#000";
+  }
+  // 转置一个二维数组
+  Transpose(arr) {
+    let res = [];
+    for (let i = 0; i < arr[0].length; i++) {
+      res.push([]);
+      for (let j = 0; j < arr.length; j++) {
+        res[i].push(arr[j][i]);
+      }
+    }
+    return res;
+  }
+
+  Yaml(f, field) {
+    return f.file.frontmatter[field];
+  }
+
+  // 返回排好序之后的下标
+  // [3,2,1] => [2,1,0]
+  SortIndex(arr) {
+    let res = [];
+    for (let i = 0; i < arr.length; i++) {
+      res.push(i);
+    }
+    res.sort((a, b) => arr[a] - arr[b]);
+    return res;
+  }
+  // 生成随机数
+  RandomNum(min, max) {
+    return Math.floor(Math.random() * (max - min + 1) + min);
+  }
+
+  ProgressBar(percentage) {
+    // Return the SVG element.
+    return `<svg width="100" height="10"><rect x="0" y="0" width="100" height="10" fill="none" stroke="black" stroke-width="2"/><rect x="0" y="0" width="75" height="10" fill="green"/></svg>`;
+  }
+}
+
+// 绘制进度条
+
+// DrawProgress(percent,type){
+// function DefaultStyle(percent){
+//   // 将0.76 转换为 76%
+//   let percentStr = (percent*100).toFixed(0)+"%";
+//   // 绘制进度条 利用字符串
+
+// }
+//   switch(type){
+//     case "star":
+//     default:
+
+//   }
+// }
+// }
