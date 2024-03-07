@@ -117,6 +117,8 @@ int select (int nfds, fd_set *readfds, fd_set *writefds,
 
 ### poll
 
+基本上和select 累世 
+
 
 
 ### epoll
